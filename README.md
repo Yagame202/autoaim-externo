@@ -1,7 +1,7 @@
  # Arduino Auto-Aim Aimbot
 
 Este projeto detecta inimigos por cor na tela (vermelho), calcula a posição e move a mira automaticamente usando Arduino Leonardo/Micro com HID.
-
+ 
 ## Estrutura
 
 - `python/aimbot.py`: código Python com OpenCV + MSS.
