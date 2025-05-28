@@ -1,4 +1,4 @@
-# Arduino Auto-Aim Aimbot
+ # Arduino Auto-Aim Aimbot
 
 Este projeto detecta inimigos por cor na tela (vermelho), calcula a posição e move a mira automaticamente usando Arduino Leonardo/Micro com HID.
 
